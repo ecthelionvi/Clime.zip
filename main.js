@@ -12,7 +12,7 @@ searchBox.addEventListener("keypress", (e) => {
 });
 
 search.addEventListener("click", () => {
-  const APIKey = "532320d1824ea30282e7c7bd6edd71c7";
+  const APIKey = "API KEY";
   const city = document.querySelector(".search-box input").value;
 
   if (city === "") return;
