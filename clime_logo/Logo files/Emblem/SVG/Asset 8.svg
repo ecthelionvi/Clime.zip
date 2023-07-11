@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 433.48 327.61">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_Безымянный_градиент_19);
+      }
+
+      .cls-2 {
+        fill: url(#_Безымянный_градиент_31);
+      }
+    </style>
+    <linearGradient id="_Безымянный_градиент_31" data-name="Безымянный градиент 31" x1="195.63" y1="104.78" x2="390.81" y2="281.81" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff814a"/>
+      <stop offset="1" stop-color="#fac671"/>
+    </linearGradient>
+    <linearGradient id="_Безымянный_градиент_19" data-name="Безымянный градиент 19" x1="45.33" y1="225.4" x2="282.5" y2="63.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0024ff"/>
+      <stop offset="0" stop-color="#0024ff"/>
+      <stop offset=".29" stop-color="#2344ff"/>
+      <stop offset=".56" stop-color="#3b5bff"/>
+      <stop offset=".8" stop-color="#4a69ff"/>
+      <stop offset="1" stop-color="#506eff"/>
+    </linearGradient>
+  </defs>
+  <g id="Text_Layers" data-name="Text Layers">
+    <g>
+      <path class="cls-2" d="m433.48,147.47c0,61.42-49.78,111.2-111.2,111.2h-36.49l-89.6,68.94,47.29-68.94,74.85-109.09h-92.87l11.84-116.94c17.96-29.25,50.74-7.38,62.54,3.47.24.22.47.42.69.64.51.49.98.93,1.38,1.36,6.6-1.2,13.42-1.84,20.38-1.84,61.42,0,111.2,49.78,111.2,111.2Z"/>
+      <path class="cls-1" d="m299.83,36.11c-11.8-10.84-44.58-32.71-62.54-3.47l-122.14,178.03h92.87l-4.87,48h-109.23C42.07,258.68,0,216.61,0,164.72s42.07-93.96,93.94-93.96h.93C116.23,28.78,159.85,0,210.21,0c34.82,0,66.4,13.78,89.63,36.11Z"/>
+    </g>
+  </g>
+</svg>
