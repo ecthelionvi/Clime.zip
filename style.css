@@ -6,15 +6,11 @@
     box-sizing: border-box;
 }
 
-.github {
-    width: 42px;
-    height: auto;
-    padding-top: 28px;
-}
-
 .logo {
     width: 36vw;
     height: auto;
+    min-width: 400px;
+    padding: 7px 8px;
     filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
 }
 
@@ -29,8 +25,8 @@
 
 .container{
     position: relative;
-    width: 400px;
-    height: 105px;
+    max-width: 400px;
+    max-height: 105px;
     background: #fff;
     padding: 28px 32px;
     overflow: hidden;
