@@ -6,7 +6,7 @@
 
 Clime.zip is a weather application that allows users to search for the current weather conditions in cities around the world. 
 
-## Usage
+## 🔧 Usage
 
 Users can enter a city name into the search bar to fetch the current temperature, weather description, humidity, and wind speed from the [OpenWeatherMap API](https://openweathermap.org/api). The weather data is displayed alongside cute illustrated weather icons that match the conditions.
 
@@ -14,7 +14,7 @@ Recently searched cities are saved using local storage and displayed under the s
 
 If a city name is not found, a custom 404 page with an illustration is displayed.
 
-## Functionality
+## 🌎 Functionality
 
 - Search for weather by city name
 - Display current temperature, conditions, humidity, and wind speed
@@ -23,7 +23,7 @@ If a city name is not found, a custom 404 page with an illustration is displayed
 - Custom 404 page for invalid city names
 - Responsive design
 
-## Technologies
+## 💻 Technologies
 
 - Vite for bundling 
 - AWS for deployment
