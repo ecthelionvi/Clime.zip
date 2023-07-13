@@ -1,7 +1,3 @@
-<h1 align="center">
-🌩️ Clime.zip
-</h1>
-
 <img src="https://raw.githubusercontent.com/ecthelionvi/Images/main/Clime.png" alt="Clime">
 
 Clime.zip is a weather application that allows users to search for the current weather conditions in cities around the world. 
