@@ -1,5 +1,5 @@
 <h1 align="center">
-🌩️ Clime
+🌩️ Clime.zip
 </h1>
 
 <img src="https://raw.githubusercontent.com/ecthelionvi/Images/main/Clime.png" alt="Clime">
