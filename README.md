@@ -1,4 +1,6 @@
-# Clime.zip
+<h1 align="center">
+🌩️ Clime
+</h1>
 
 <img src="https://raw.githubusercontent.com/ecthelionvi/Images/main/Clime.png" alt="Clime">
 
@@ -32,37 +34,3 @@ If a city name is not found, a custom 404 page with an illustration is displayed
 - FontAwesome icons
 - SVG illustrations
 - Media queries for responsiveness
-
-## Usage
-
-1. Clone the repository
-```
-git clone https://github.com/yourname/climezip.git
-```
-
-2. Install dependencies
-```
-npm install
-```
-
-3. Run the app
-```
-npm run dev
-```
-
-4. Build for production
-```
-npm run build
-```
-
-5. Deploy on a server
-
-## Contributing
-
-Pull requests are welcome! Feel free to open an issue for any bugs or desired features.
-
-## License 
-
-This project is open source and available under the [MIT License](LICENSE).
-
-Let me know if you would like me to modify or add anything to this README!
